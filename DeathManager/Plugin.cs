@@ -173,11 +173,6 @@ namespace DeathManager
             }
             catch (Exception exc)
             {
-                if (Instance.Configuration.Instance.ShowErrorMessages)
-                {
-                    Logger.LogError("Error: Could not find <cause.Death>");
-                    Logger.LogError("Description: " + exc);
-                }
                 UnturnedChat.Say(Translate("null", player.DisplayName), UnturnedChat.GetColorFromName(Configuration.Instance.DeathMessagesColor, Color.green));
             }
         }

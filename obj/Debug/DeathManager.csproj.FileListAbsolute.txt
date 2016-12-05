@@ -21,3 +21,15 @@ C:\Users\User\Desktop\DeathManager-master\DeathManager-master\bin\Debug\UnityEng
 C:\Users\User\Desktop\DeathManager-master\DeathManager-master\obj\Debug\DeathManager.csprojResolveAssemblyReference.cache
 C:\Users\User\Desktop\DeathManager-master\DeathManager-master\obj\Debug\DeathManager.dll
 C:\Users\User\Desktop\DeathManager-master\DeathManager-master\obj\Debug\DeathManager.pdb
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\DeathManager\bin\Debug\DeathManager.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\DeathManager\bin\Debug\DeathManager.pdb
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\DeathManager\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\DeathManager\bin\Debug\Assembly-CSharp.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\DeathManager\bin\Debug\Rocket.API.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\DeathManager\bin\Debug\Rocket.Core.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\DeathManager\bin\Debug\Rocket.Unturned.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\DeathManager\bin\Debug\Uconomy.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\DeathManager\bin\Debug\UnityEngine.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\DeathManager\obj\Debug\DeathManager.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\DeathManager\obj\Debug\DeathManager.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\DeathManager\obj\Debug\DeathManager.pdb
